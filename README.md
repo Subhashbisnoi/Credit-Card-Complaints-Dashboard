@@ -30,7 +30,8 @@ The dashboard is built using **Credit Card Dashboard.xlsx**, which contains cust
 
 ## 📷 Screenshot  
 
-![Dashboard Preview](https://drive.google.com/file/d/1azs4CfMO4ijEMSnT0qDNd7KTLA_uRpE4/view?usp=sharing)  
+![Dashboard Preview](https://github.com/Subhashbisnoi/Credit-Card-Complaints-Dashboard/blob/master/photo/Dashboard.png?raw=true)
+ 
 
 ## 🚀 How to Use  
 
