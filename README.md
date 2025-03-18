@@ -11,7 +11,6 @@ This repository contains an interactive **Credit Card Complaints Dashboard**, wh
 - **State-wise Complaints:** Heatmap representation of complaints across different states.  
 - **Top Issues:** Lists the most common complaint categories.  
 - **Company Response Breakdown:** Analyzes how companies respond to complaints.
--   
 - **Daily Complaints Calendar:** Shows the volume of complaints received daily.  
 - **Submission Channels:** Displays how complaints were submitted (Web, Phone, Email, etc.).  
 
